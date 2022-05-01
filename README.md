@@ -7,7 +7,7 @@
 
 Installed Libraries
 * ### React Hook Form 
->   npm cmd (npm install react-hook-form)   
+>   npm cmd (npm install react-hook-form)  <br> 
 >   version ^7.30.0
 
 * ### React Router Dom  
